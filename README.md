@@ -1,7 +1,7 @@
 # **ML Models for Small Bioactive Molecules**  
 **August 2024 - December 2024**  
 
-**Associated with Break Through Tech AI, Cornell University**  
+**Associated with Break Through Tech AI @ MIT, Cornell University**  
 
 This project is part of the **AI Studio Challenge** presented by **Alkermes**, focusing on generating AutoML models for small molecule bioactive compounds using **ChEMBL** data. The primary goal is to predict molecular properties and evaluate prediction confidence, which is essential for drug discovery and compound nomination.
 
